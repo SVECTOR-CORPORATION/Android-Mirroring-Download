@@ -1,4 +1,4 @@
-# Android Mirroring (v2.7) - SVECTOR
+# Android Mirroring (v2.1) - SVECTOR
 
 # PREVIEW
 
@@ -24,7 +24,7 @@
 
 ### Step 1: Download
 1. **Visit the official website** at [SVECTOR Android Mirroring](https://calculus.svector.co.in/f/cZsxVf) to download the ZIP file.
-2. Click on the **Download** button for the latest version (v2.7) to start downloading the ZIP file.
+2. Click on the **Download** button for the latest version (v2.1) to start downloading the ZIP file.
 
 ### Step 2: Extract the ZIP File
 1. Once the download is complete, locate the downloaded ZIP file in your `Downloads` folder or the designated download location.
